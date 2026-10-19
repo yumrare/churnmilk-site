@@ -42,6 +42,9 @@ table.recipe-card,table.chart{border-collapse:collapse;width:100%;margin:18px 0;
 .recipe-card th{width:170px;background:var(--cream)}
 .chart th{background:var(--cream)}
 .entry h2{margin-top:26px}
+.entry-photo{margin:14px 0}
+.entry-photo img{width:360px;max-width:100%;height:auto;border-radius:10px;display:block}
+.entry-photo figcaption{font-size:12px;color:#7A7264;margin-top:5px;max-width:360px}
 .crumb{font-size:15px}
 .related li{margin:4px 0}
 .contact-form{max-width:560px;display:grid;gap:14px}
